@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/timetable-project/static/css/main.1b6401ef.chunk.css",
-    "main.js": "/timetable-project/static/js/main.3edfb23c.chunk.js",
-    "main.js.map": "/timetable-project/static/js/main.3edfb23c.chunk.js.map",
+    "main.css": "/timetable-project/static/css/main.a18725e3.chunk.css",
+    "main.js": "/timetable-project/static/js/main.5f8f1f73.chunk.js",
+    "main.js.map": "/timetable-project/static/js/main.5f8f1f73.chunk.js.map",
     "runtime-main.js": "/timetable-project/static/js/runtime-main.e15add89.js",
     "runtime-main.js.map": "/timetable-project/static/js/runtime-main.e15add89.js.map",
     "static/js/2.f0112065.chunk.js": "/timetable-project/static/js/2.f0112065.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.cef9dc5c.chunk.js": "/timetable-project/static/js/3.cef9dc5c.chunk.js",
     "static/js/3.cef9dc5c.chunk.js.map": "/timetable-project/static/js/3.cef9dc5c.chunk.js.map",
     "index.html": "/timetable-project/index.html",
-    "static/css/main.1b6401ef.chunk.css.map": "/timetable-project/static/css/main.1b6401ef.chunk.css.map",
+    "static/css/main.a18725e3.chunk.css.map": "/timetable-project/static/css/main.a18725e3.chunk.css.map",
     "static/js/2.f0112065.chunk.js.LICENSE.txt": "/timetable-project/static/js/2.f0112065.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e15add89.js",
     "static/js/2.f0112065.chunk.js",
-    "static/css/main.1b6401ef.chunk.css",
-    "static/js/main.3edfb23c.chunk.js"
+    "static/css/main.a18725e3.chunk.css",
+    "static/js/main.5f8f1f73.chunk.js"
   ]
 }
